@@ -1,6 +1,3 @@
-# ShellAssignmentPaytm
-# File names corresponding these questions holds the soln.
-
 Assigment-
 1 Create a script to create an empty file.
 2 Create a script to list out all the files in a directory matching to a pattern.
@@ -29,6 +26,7 @@ Assigment-
 25 Delete Folder older then N days.
 26 Search and Replace in Multiple Files
 27 Make a script and pass 5 command line arguments(arguments value should be integer)
+
     - print 1st and 5th command line arguments
     - print "INDIA" if 2nd argument equal to 10 else it will print "india"
     - print addition of all arguments
@@ -40,6 +38,7 @@ Assigment-
      - This script will take remote ip adress ( or list of addresses separated by comma) as first argument.
      - Remote path location as second argument.
      - local path as third argument.
+
 31 Make a script in which you will pass a git repo path and it will generate a html report(table) of last 5 days commits.
 
     - html report should contain
@@ -61,4 +60,3 @@ Assigment-
    - Allow postfix or sendmail
 
 Note- Please commit all of your's solution in github.
-
